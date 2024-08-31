@@ -1,0 +1,9 @@
+PATCH  http://localhost:8080/product/update
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiNTczNiIsImV4cCI6MTcxNTUyODkxNSwiaWF0IjoxNzE1NTI1MzE1LCJzY29wZSI6IlVTRVIifQ.SqAZwDK62dOPP4nyIAplYJwtiid3Ukktvqgp-ia-8vWxbmCOG8I9Cazy1Htyxn64GeYbO23zz087P3xa2z-bF44dD_ZaBxJT_wpBf8HI1aGAhWfVCvJlTcn38a0D5GoMeSzcjF2hu8CaunGcmuHtEcFVtf675Wy4GTXVbnIV_JFfyb90yjCrrEq2kieGqKJzqX1AqG77OB-bnX69_Gd4_N1-6HBlwagN1pWAjzpdsmM2zJIx_YbsdWO4yl9MSuMRHfBFZYnDy6XEZ7FvVCc6W6aKTdUHMTZZiIKmJdH-B-Rf7eTqhj491IlhOPeh7MWrKWIqSHAXSBT6n2GZndPbcQ
+
+{
+    "productId": "2",
+    "name": "Iphone 15 Pro Max 256GB",
+    "price": "1600"
+}

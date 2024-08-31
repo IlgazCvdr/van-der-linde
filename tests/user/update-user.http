@@ -1,0 +1,9 @@
+POST http://localhost:8080/user/update
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiMTIzQG1zbi5jb20iLCJleHAiOjE3MTYzODA4MDcsImlhdCI6MTcxNjM3NzIwNywic2NvcGUiOiJNRVJDSEFOVCBVU0VSIn0.dadyu0NvWFVu-I4c649KpGjbKvcmqoGbflI18jN0tALE4QImCbPVzaeBehOIhLdiByDYw0jensT9N9Ss2oZPNoWSPllD5tQseMLm1mzW9R6QSQFfodTU7YcMEANyM2hg2SY3so_mggx49kOd3i89rfKN45bMkLo2478Lhcg-DBHKo355QrWh2Qi5Q0fD63RvrpYUQf2zpmk37hJvqzVAV-eUdyPAzXHLYxUbpBTxePOa0L3jfL0XHVSc3K5z5s0ZYyCmxt8pFrzwOlpvx3LibzXL0-vK13mz6jVfDRfGXTZ2ip6ocXTfTTdhIEzZYi6qbojMNZ71U95jZtaygS-ggw
+
+{
+    "firstName": "erya",
+    "lastName": "tayar",
+    "password": "321"
+}

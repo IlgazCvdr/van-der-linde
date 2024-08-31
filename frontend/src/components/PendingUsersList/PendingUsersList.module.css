@@ -1,0 +1,29 @@
+.user-list-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    gap: 5px;
+    width: 1000px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.user-card{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+    width: 200px;
+}
+
+.account-type{
+    width: 100px;
+}
+
+.email{
+    width: 200px;
+}

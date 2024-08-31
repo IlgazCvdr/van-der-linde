@@ -1,0 +1,32 @@
+.question-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    width: 1000px;
+}
+
+.question-card{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.question-card:hover{
+    outline: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.question-title{
+    width: 500px;
+}
+
+.question-author{
+    width: 200px;
+}

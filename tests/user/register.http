@@ -1,0 +1,11 @@
+POST http://localhost:8080/user/register
+content-type: application/json
+
+{
+    "firstName": "Eray",
+    "lastName": "Taymaz",
+    "email": "a3",
+    "password": "a3",
+    "confirmPassword": "a3",
+    "accountType" : "Merchant"
+}

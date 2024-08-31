@@ -1,0 +1,8 @@
+POST http://localhost:8080/admin/send-new-password
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiYWRtaW4xQGFkbWluLmNvbSIsImV4cCI6MTcxNjM5NDY1OCwiaWF0IjoxNzE2MzkxMDU4LCJzY29wZSI6IkFETUlOIE1FUkNIQU5UIFVTRVIifQ.m87riaDs8JqSk5WHXrf5S0xSCju6fg0jkbtlJmuh6lQrFnlEqMTcolJQjp8sQfd5ZEKlF7SqahYxAbP6pGRq596chPbU7rQnEFWJWHOzs7-dQ7sEX7Lr0gtI98sIz17oRLX0yUDKQJYtBuVpMzaTTZCYrwIaxPmRSLjGvXSgmcRTmT44vSAtXWrClf6Rx5kIYJYh-502RsP8Oc9K34vuBi44CbG0k4Si1CNZe-JkMJXNM3J9SFgPmwWeYlEyDtEr4TrxqSdva-H8wQ_wEAJbWCXybQqCvX_Qm4mEcl-5dh8NTuHvY-IuyDf0b05p8n49-KDZum-h6Wa5LZpJIaKJ8Q
+
+{
+    "id" : 1,
+    "password": "eray123"
+}

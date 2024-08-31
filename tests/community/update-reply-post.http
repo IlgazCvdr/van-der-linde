@@ -1,0 +1,9 @@
+POST http://localhost:8080/community/forum/update-reply-post
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiYWRtaW4xQGFkbWluLmNvbSIsImV4cCI6MTcxNTk3Mzg5MiwiaWF0IjoxNzE1OTcwMjkyLCJzY29wZSI6IkFETUlOIE1FUkNIQU5UIFVTRVIifQ.zKxXRckRB1zPhp-sNmv-tqcNAKUt3OQLUyknBriwQ7gM6J07K2FZYlC3YP3P3hF8wPfLA_PFZlUWxl8d0nJx8lWxXs2DspQqQgmGRwb0oN8BIEfG_h9edRw9uG8G2OXqOshlWqX5oc-HyA7FhP8UOvCU9o9ZZf_D0BEA9hp8tQ0uOVyiL7MNEtKpC0J6BeckILce-71j0xwhaw9RuuD6LBTidOU-6yHB9k9yzMT0s4NceuGuBAyk3md41T5UMKQarKVknUfdvazdHnnztkriUB0aU_7Aho7GIVY-ZD6a9yvGAXMTkx67pVFm1j39nBbfXPsgRfLOld6Kn4QZ7v3z4g
+
+{
+    "newTitle": "Still stoopid" ,
+    "newText": "Test123" ,
+    "postId": 2
+}

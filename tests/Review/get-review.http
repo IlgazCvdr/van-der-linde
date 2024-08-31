@@ -1,0 +1,2 @@
+GET http://localhost:8080/review/get?reviewId=26 
+Content-Type: application/json

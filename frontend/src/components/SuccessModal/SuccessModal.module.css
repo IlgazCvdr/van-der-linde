@@ -1,0 +1,14 @@
+/* SuccessModal.module.css */
+.successBody {
+    text-align: center;
+}
+
+.successIcon {
+    font-size: 36px;
+    color: #28a745; /* Success color */
+}
+
+.successFooter {
+    justify-content: center;
+    border-top: none;
+}

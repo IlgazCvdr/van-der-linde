@@ -1,0 +1,1 @@
+GET http://localhost:8080/product/get-reviews?productId=1

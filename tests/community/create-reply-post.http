@@ -1,0 +1,9 @@
+POST http://localhost:8080/community/forum/create-reply-post
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiYWRtaW4xQGFkbWluLmNvbSIsImV4cCI6MTcxNTk3NDc1NSwiaWF0IjoxNzE1OTcxMTU1LCJzY29wZSI6IkFETUlOIE1FUkNIQU5UIFVTRVIifQ.bAgJJDOJm5g8Woi9_igDIlu08jn8i17IFsUW2d0RSB4DyLIvPDS1f2DumMNQZ3sfqWiv6GN0g6cG9Reu2xjhnfgZRUQPr25dO90YZtrQUK4gaalOBWC6or9WydOnRN5TFYxtEIS6nLPp2H8kdJYT3eGeUdIm8p6Y9d2qGq6gtDLADCnZSauKr2HcjSqUFup2OVv_5IyBIxVC47ziWjaSOxW3ZMcS_sxCwjDppVtKC5_oycRME0CoFhUnvDH-nPNbGBaYBjEAS51jkccStjzhgLy6nihrenY4ReUudVyT37AgLK8l5l30BPwSQO3BQoqFY9on4JHprGnJJquredB21Q
+
+{
+    "title": "STUPID POST 2",
+    "text": "this post is stupid",
+    "replyTo": 1
+}

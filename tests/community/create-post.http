@@ -1,0 +1,8 @@
+POST http://localhost:8080/community/forum/create-post
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiYWRtaW4xQGFkbWluLmNvbSIsImV4cCI6MTcxNTk2NDYxNiwiaWF0IjoxNzE1OTYxMDE2LCJzY29wZSI6IkFETUlOIE1FUkNIQU5UIFVTRVIifQ.JgVhPfvgR6Xr9d7yGJePMCC-fR5A8nwGHwI2D-MySiSBjpuDcmzfhYLzo43lpZYmjaVCVKvBYc1b2OxUCyJ5PjrNBa84WmGSH1_NnztaH-ICRb5dw_Lg0vozUbrkRkZwMKU4CXDpFu7LNkuYlEz9CQ5AhfTuLE00L2FKCSeX2Et9WFgrjoMq3Hy9_MMBlMJrb5uaXKAw-8RsBDjHyVJ0JyN9aOMv5SCq5vi2N-Ddpe2-jEmo8ir4w5zPbDbbWRCWJXUMxVTdFBKjLfxgcZGEEy3xoEgDzTqa-m1NA15hBViiSDrvWdnnpfshx9QxMdE5tcYLSjul6YnEVSLRiBqIPg
+
+{
+    "title": "BUY DOGE",
+    "text": "what the sigma"
+}

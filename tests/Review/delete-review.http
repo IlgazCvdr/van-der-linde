@@ -1,0 +1,8 @@
+POST http://localhost:8080/review/delete
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJzZWxmIiwic3ViIjoiMTIzNCIsImV4cCI6MTcxNTU0NjQ3MSwiaWF0IjoxNzE1NTQyODcxLCJzY29wZSI6Ik1FUkNIQU5UIFVTRVIifQ.xdyx_a0-jLUI5O3bmp3bqModqrE77UJHKSZfb9a_wpSwnZDhqYtGwdK96zv0HkpSMCe0QUhbDeQndjCNSfzhyJPJtdnx0yGxp9jwwZRQYiX27r0253yXqKnkb3PY1AnlF0r5YzR_fpBzMj7XuVbqJN4aXMuHR8-HhUzNwNXBHn_hpLp6rJUaFD0lcroKbbSnazN5ZQJGUQ4j2oFvC3BktEukDBLOgQNuGc3r1ZRrUpDj1OwKF7jNU0Ap-9colkS7hD-t76F7n7npuQGRzBoftNayvnCP3Bd-WnTZjytU7Rlbk1-NkOGHOMp8tQ9zz9q2z1EWms3CiIBREEaGPIL4CQ
+
+{
+    "reviewId": 4,
+    "productId": 6
+}

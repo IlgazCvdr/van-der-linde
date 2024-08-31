@@ -1,0 +1,27 @@
+.local-community-list{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.local-community-card {
+    width: 1000px;
+    height: 80px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    cursor: pointer;
+    align-items: center;
+}
+
+.local-community-card:hover {
+    outline: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.community-image{
+    height: 80%;
+    border-radius: 50%;
+}

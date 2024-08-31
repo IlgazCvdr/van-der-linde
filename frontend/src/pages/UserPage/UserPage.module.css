@@ -1,0 +1,41 @@
+.user-container{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile-image-container{
+    width: 200px;
+}
+
+.profile-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+}
+
+.user-info-container{
+    font-size: 20px;
+    width: 100%;
+}
+
+.info {
+    margin-top: 15px;
+}
+
+.label{
+    margin: 5px 0px;
+    width: 100%;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.username{
+    
+}
+
+.email{
+}

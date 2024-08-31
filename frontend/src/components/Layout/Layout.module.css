@@ -1,0 +1,10 @@
+.content {
+    padding: 50px;
+    min-height: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #f8f9fa;
+}

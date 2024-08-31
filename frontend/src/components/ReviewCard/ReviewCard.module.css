@@ -1,0 +1,47 @@
+.review-card{
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.rating {
+    font-size: 18px;
+    font-weight: bold;
+    color: orange;
+}
+
+.user-name{
+    cursor: pointer;
+    transition: 0.3s;
+    display: inline;
+}
+
+.user-name:hover{
+    color: #3B71CA;
+}
+
+.review-image-container{
+    height: 100px;
+}
+
+.review-image{
+    height: 100%;
+    max-width: 100px;
+    object-fit: contain;
+}
+
+.delete-button{
+    display: inline;
+    width: auto;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.delete-button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: white;
+}

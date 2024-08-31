@@ -1,0 +1,14 @@
+/* ErrorModal.module.css */
+.errorBody {
+    text-align: center;
+}
+
+.errorIcon {
+    font-size: 36px;
+    color: #dc3545; /* Error color */
+}
+
+.errorFooter {
+    justify-content: top;
+    border-top: none;
+}

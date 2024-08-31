@@ -1,0 +1,42 @@
+.header{
+    width: 100%;
+    height: 120px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAF9F6;
+}
+
+.header-contents{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.logo{
+    width: 160px;
+}
+
+.auth-buttons-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.account-button{
+    text-decoration: none;
+    color: inherit;
+}
+
+.logout-button {
+    margin-left: 40px;
+    font-weight:600;
+    cursor: pointer;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+}

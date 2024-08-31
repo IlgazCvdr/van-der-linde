@@ -1,0 +1,7 @@
+POST http://localhost:8080/community/updatepost
+Content-Type: application/json
+
+{
+    "newText": "Test 2" ,
+    "postId": 1
+}
